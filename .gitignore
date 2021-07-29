@@ -29,3 +29,10 @@ user_guide_src/cilexer/pycilexer.egg-info/*
 *.sublime-project
 /tests/tests/
 /tests/results/
+
+.*
+!.gitignore
+/application/**/config.php
+/application/**/database.php
+vendor
+index.php
