@@ -32,7 +32,7 @@ user_guide_src/cilexer/pycilexer.egg-info/*
 
 .*
 !.gitignore
-/application/**/config.php
-/application/**/database.php
+/application/config/config.php
+/application/config/database.php
 vendor
 index.php
